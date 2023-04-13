@@ -1,0 +1,24 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.bak
+
+# Packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# ReSharper files
+_ReSharper.*/
+
+# Other
+Thumbs.db
+desktop.ini
+*.log
+*.txt
